@@ -40,7 +40,9 @@ chmod +x script_name.sh
 
 2. スクリプトを実行します。
 
-./script_name.sh
+`./script_name.sh ~/YourDirectory 70`
+
+第一引数が対象の HEIF ファイルまたは HEIF ファイルを含むディレクトリ、第二引数が WebP の画質です
 
 このスクリプトは、指定されたディレクトリ内のすべての HEIF 画像を WebP 形式に変換します。変換された画像は元の画像と同じディレクトリに保存されます。
 
