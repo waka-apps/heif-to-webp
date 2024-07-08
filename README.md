@@ -40,7 +40,7 @@ chmod +x script_name.sh
 
 2. スクリプトを実行します。
 
-`./script_name.sh ~/YourDirectory 70`
+`./heif-to-webp.sh ~/YourDirectory 70`
 
 第一引数が対象の HEIF ファイルまたは HEIF ファイルを含むディレクトリ、第二引数が WebP の画質です
 
